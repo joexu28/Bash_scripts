@@ -1,6 +1,7 @@
 #! /bin/bash 
 
-# command substitution runs as a subshell                                       # $s in subshell will not change $s in parent shell
+# command substitution runs as a subshell                                       
+# $s in subshell will not change $s in parent shell
 
 set -x
 
